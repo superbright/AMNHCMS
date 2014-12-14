@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ title }}</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+	<script src="http://code.jquery.com/jquery-latest.js"></script>
+  </head>
+  <body>
+	
+    <h1>{{ title }}</h1>
+	<ul>
+	 <div class="dataheader">
+			<div class="dataelement">
+				STREAM NAME
+			</div>
+			<div class="dataelement">
+				LOCATION
+			</div>
+			<div class="dataelement">
+				STREAM STATUS
+			</div>
+			<div class="dataelement">
+				VISIBILITY
+			</div>
+	</div>
+	
+	<hr align="left">
+	
+	        {{#streams}}
+	           <div class="datarow">
+					<div class="dataelement">
+						{{name}}
+					</div>
+					<div class="dataelement">
+						LOCATION
+					</div>
+					<div class={{css}}>
+						{{live}} 
+					</div>
+					<div class="dataelementtoggle">
+						<div class="togglein">	ON</div>
+						<div class="togglein">	<span class="toggle-bg">
+						
+						    <input id="radio" type="radio" name="{{name}}" value="{{t1}}" {{^first}}checked{{/first}}>
+						    <input id="radio" type="radio" name="{{name}}" value="{{t2}}" {{^second}}checked{{/second}}>
+				
+						    <span class="switch"></span>
+						</span>
+						</div>
+						<div class="togglein">	OFF</div>
+					</div>
+				</div>
+	        {{/streams}}
+	    </ul>
+	
+		<script>
+		$(document).ready(function(){
+		  $('input[type=radio]').change(function() {
+			var selected = $(this);
+			console.log("hello " + selected[0].name);
+			var parameters = {streamname: selected[0].name};
+			$.ajax({
+			        data: parameters,
+			        url: "/toggleStream",
+					dataType: "json"
+			    }).done(function(data){
+					
+					console.log("AHA " +data);
+					selected[0].checked = false;
+				
+			    });
+			
+			});	
+		});
+		</script>
+
+  </body>
+</html>

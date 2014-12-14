@@ -1,0 +1,876 @@
+[
+    {
+        "idkey": "0",
+        "id": "f1",
+        "path": "f1/",
+        "title": "Past Present Future ",
+        "description": "",
+        "url": "/feature/",
+        "mapid": 0,
+        "media": {
+            "coverimage": "1.jpg",
+            "coverimagethumb": "f1thumbnail.jpg",
+            "center": [
+                {
+                    "filename": "A1_CulturalVacuum.mp3",
+                    "thumbnail": "A1T.jpg",
+                    "poster": "A1L.jpg",
+                    "caption": "My First Mask",
+                    "description": "Increasing contact with Europeans in the early and mid-1800s wreaked havoc on Haida society. <br><br>Diseases devastated the population and laws suppressed and criminalized the practice of Haida culture. Then in the 1950s, the Haida began to reclaim their traditions. Hear artist Robert Davidson describe how it all started for him with a paper bag and a story from his grandmother. ",
+                    "type": "audio",
+                    "id": "f1_001"
+                },
+                {
+                    "filename": "V12_Nicoll.mp4",
+                    "thumbnail": "V12T.jpg",
+                    "poster": "V12L.jpg",
+                    "caption": "What is it that you see?",
+                    "description": "Haida artist Michael Nicoll Yahgulanaas is known for pushing boundaries. After decades of political activism\u2014during which he confronted the powerful logging industry as well as injustices in the Canadian government\u2014Yahgulanaas turned to making art full-time. His drawings, sculptures and other works of art incorporate traditional Haida designs in new ways while challenging viewers\u2019 perceptions and imagination. ",
+                    "type": "video",
+                    "id": "f1_002"
+                },
+                {
+                    "filename": "image.jpg",
+                    "thumbnail": "imageT.jpg",
+                    "caption": "Lost Canoes Lead the Way",
+                    "description": "In 1984, Haida master artist Bill Reid set out to make the first traditional canoe in living memory. Most firsthand sources of information were long gone, so he turned to the abandoned canoes scattered around the island. The canoes, all in various stages of manufacture, provided key clues that allowed him and others to revive the practice of carving canoes.",
+                    "type": "image",
+                    "credit": "Pete Ryan/ National Geographic Creative",
+                    "id": "f1_003"
+                },
+                {
+                    "filename": "V14_Shoshana.mp4",
+                    "thumbnail": "V14T.jpg",
+                    "poster": "V14L.jpg",
+                    "caption": "Living, Breathing Haida Art",
+                    "description": "Shoshana Greene is a 22-year-old Haida artist who grew up watching The Lion King and dreaming of becoming a Disney animator. But as she started to develop her artistic style, Greene realized that her childhood on Haida Gwaii had given her something much richer than princes and castles\u2014time-honored stories and a style to remix and call her own. ",
+                    "type": "video",
+                    "id": "f1_004"
+                }
+            ],
+            "video": "V12_Nicoll.mp4",
+            "audio": "audio.mp3"
+        },
+        "likes": 4,
+        "relatedobjects": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "idkey": "1",
+        "id": "f2",
+        "path": "f2/",
+        "title": "The Potlatch",
+        "description": "title",
+        "url": "/feature/",
+        "mapid": 0,
+        "media": {
+            "coverimage": "2.jpg",
+            "coverimagethumb": "f2thumbnail.jpg",
+            "center": [
+                {
+                    "thumbnail": "I3Album/I3.1.jpg",
+                    "caption": "The Giving Feast",
+                    "description": "High-ranking Northwest Coast families throw potlatches\u2014 lavish, multi-day ceremonies\u2014to mark important public events, such as weddings or totem-pole raisings. Masked dances, music, food and gifts are planned for months. Chiefs demonstrate their status at potlatches by giving away goods: redistributing one\u2019s wealth forges and reinforces relationships. ",
+                    "type": "slideshow",
+                    "images": [
+                        {
+                            "src": "images/f2/I3Album/I3.1.jpg",
+                            "caption": "Contemporary Potlatch",
+                            "description": "A potlatch thrown by Chief Miles Richardson in Skidegate, Haida Gwaii in 1996. Since no home could accomodate 700 people, a gymnasium became \u201cthe big house\u201d for the event.",
+                            "credit": "\u00a9www.setboun.com",
+                            "id": "f2_001"
+                        },
+                        {
+                            "src": "images/f2/I3Album/I3.2.jpg",
+                            "caption": "Last Potlatch in Klinkwan",
+                            "description": "Finely dressed Haida villagers proceed to the final potlatch in Klinkwan, Alaska. Not long after, in 1911, they abandoned the town\u2014and traditional customs\u2014to survive economically.",
+                            "credit": "Canadian Museum of History",
+                            "id": "f2_002",
+                            "map": {
+                                "caption": "Last Potlatch in Klinkwan",
+                                "filename": "images/f2/I3Album/i3.2-Klinwan.jpg",
+                                "description": "Finely dressed Haida villagers proceed to the final potlatch in Klinkwan, Alaska. Not long after, in 1911, they abandoned the town\u2014and traditional customs\u2014to survive economically. <br><br>The people of Klinkwan and several other villages chose to consolidate into a new town they called Hydaburg, where  they could work reliably as commercial fishermen for Euro-American-controlled canneries. In the move, the Hydaburg founders elected to give up their tribal practices in a cultural climate often hostile to Native ways of life."
+                            }
+                        },
+                        {
+                            "src": "images/f2/I3Album/I3.3.jpg",
+                            "caption": "Potlatch gifts, circa 1902",
+                            "description": "Headdresses, silver bracelets (displayed on sticks) and enamel basins are ready to be given to guests at this Kwakwa\u0331ka\u0331\u2019wakw potlatch in Alert Bay, British Columbia.",
+                            "credit": "Canadian Museum of History",
+                            "id": "f2_003",
+                            "map": {
+                                "caption": "Potlatch gifts, circa 1902",
+                                "filename": "images/f2/I3Album/i3.3-Alert-Bay.jpg",
+                                "description": "Headdresses, silver bracelets (displayed on sticks) and enamel basins are ready to be given to guests at this Kwakwa\u0331ka\u0331\u2019wakw potlatch in Alert Bay, British Columbia. The Canadian government made potlatching a crime in 1884, passing one of many laws intended to control and assimilate Native peoples. For a while, the Kwakwa\u0331ka\u0331\u2019wakw openly resisted. But in 1921, police arrested 45 people during a six-day potlatch and confiscated treasured regalia, which sent the practice underground. Not until 1951 did potlatching become legal again."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "filename": "V2_White.mp4",
+                    "thumbnail": "V2T.jpg",
+                    "poster": "V2L.jpg",
+                    "caption": "Song for a Potlatch",
+                    "description": "Christian White, a Haida carver, descends from an influential family of chiefs and artists, the Edenshaws. Decades ago, his great-grandfather Henry commissioned a song for a potlatch he hosted. Hear White sing this legacy music\u2014and share its meaning.",
+                    "type": "video",
+                    "id": "f2_004"
+                },
+                {
+                    "filename": "A2_Potlatch.mp3",
+                    "thumbnail": "A2T.jpg",
+                    "poster": "A2L.jpg",
+                    "caption": "Sounds Like Supernatural",
+                    "description": "Music from whistles and other instruments sets a tone at potlatch ceremonies that can mount into a bone-chilling climax. Listen in with Haida musician and composer Vernon Williams, pictured performing in this hall in 2014.",
+                    "type": "audio",
+                    "credit": "Jeff Conklin/Scott Unger/AMNH",
+                    "id": "f2_005"
+                },
+                {
+                    "thumbnail": "I5Album/I5.1.jpg",
+                    "caption": "Food and Costume",
+                    "description": "Many of the artifacts in the cases before you were used in potlatches during the 1800s. To make a lasting impression, chiefs would hire artists to craft garments and utensils with elaborate crest designs\u2014typically animal symbols that represent the deep history of an extended family. Haida ceremonies today still use similar items.",
+                    "type": "slideshow",
+                    "images": [
+                        {
+                            "src": "images/f2/I5Album/I5.1.jpg",
+                            "caption": "Feast Spoon",
+                            "description": "Giant ladles, such as this one with a frog handle, would scoop halibut or salmon soup for hundreds of potlatch guests.",
+                            "credit": "Denis Finnin/AMNH",
+                            "id": "f2_006"
+                        },
+                        {
+                            "src": "images/f2/I5Album/I5.2.jpg",
+                            "caption": "Chief\u2019s Headdress",
+                            "description": "At potlatches, chiefs wear stunning headdresses. This one is carved with family crests and embellished with sea lion whiskers, flicker feathers, abalone and ermine pelts.",
+                            "credit": "Stephen S. Myers/AMNH",
+                            "id": "f2_007"
+                        },
+                        {
+                            "src": "images/f2/I5Album/I5.3.jpg",
+                            "caption": "Oil Dish",
+                            "description": "Shallow bowls held rich, pungent oil from the eulachon fish for dipping morsels of dried salmon. This bowl depicts a seal.",
+                            "credit": "Roderick Mickens/AMNH",
+                            "id": "f2_008"
+                        },
+                        {
+                            "src": "images/f2/I5Album/I5.4.jpg",
+                            "caption": "Silver Bracelet with Beaver Crest",
+                            "description": "From the 1850s on, potlatch hosts gave away great numbers of silver bracelets. Artists pounded the host\u2019s silver coins into cuffs and inscribed each guest\u2019s family crest.",
+                            "credit": "Roderick Mickens/AMNH",
+                            "id": "f2_009"
+                        }
+                    ]
+                }
+            ]
+        },
+        "likes": 0,
+        "relatedobjects": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "idkey": "2",
+        "id": "f3",
+        "path": "f3/",
+        "title": "TOTEM POLES",
+        "description": "title",
+        "url": "/feature/",
+        "mapid": 0,
+        "media": {
+            "coverimage": "i6album/I6.2.jpg",
+            "coverimagethumb": "f3thumbnail.jpg",
+            "center": [
+                {
+                    "thumbnail": "i6album/I6.2.jpg",
+                    "caption": "A Forest of Crests",
+                    "description": "Totem poles, the monumental Northwest Coast art form, are not for worship, protection, nor art for art\u2019s sake. Instead, they signify a family\u2019s status and show its crests\u2014designs that only they have the right to use, like a coat of arms. Crests often relate the lineage\u2019s origin stories, usually involving an animal ancestor from the spirit world.",
+                    "type": "slideshow",
+                    "images": [
+                        {
+                            "src": "images/f3/i6album/I6.2.jpg",
+                            "caption": "A Haida Harbor",
+                            "description": "Skidegate village around 1901. Evidence suggests that the totem pole developed on or near Haida Gwaii. By the early 1900s, the Haida were the masters of the iconic free-standing type.",
+                            "credit": "AMNH Library 330387",
+                            "map": {
+                                "caption": "A Haida Harbor",
+                                "filename": "images/f3/i6album/i6.2-Skidegate.jpg",
+                                "description": "Skidegate village in around 1901. Evidence suggests that the totem pole developed on or near Haida Gwaii. By the early 1900s, the Haida were the masters of the iconic free-standing type. There were other pole types and other Northwest Coast Native groups that made poles, but the Haida were famous for their imposing sentries where forest and village meet the sea."
+                            },
+                            "id": "f3_001"
+                        },
+                        {
+                            "src": "images/f3/i6album/I6.3.jpg",
+                            "caption": "The Monster House, 1879",
+                            "description": "The grander the pole, the more secure the rank of its owner. The pole on the front of Chief Wiah of Masset\u2019s enormous \u201cMonster House\u201d reached 50 feet (15 meters) tall.",
+                            "credit": "AMNH Library 334106",
+                            "map": {
+                                "caption": "The Monster House, 1879",
+                                "filename": "images/f3/i6album/i6.3-Masset.jpg",
+                                "description": "The grander the pole, the more secure the rank of its owner. The frontal pole of Chief Wiah of Masset\u2019s enormous \u201cMonster House,\u201d reached 50 feet (15 meters) tall. Eight more graced his property, helping Masset rival Skidegate as the premier town for totem poles in the late 1800s."
+                            },
+                            "id": "f3_002"
+                        },
+                        {
+                            "src": "images/f3/i6album/I6.4.jpg",
+                            "caption": "Village of Tanu, 1900",
+                            "description": "As early as AD 500, Northwest Coast people lived in communal houses of cedar, built in rows facing the ocean. House \u201cfrontal poles\u201d are attached to the structures. ",
+                            "credit": "AMNH Library 248614",
+                            "id": "f3_003"
+                        }
+                    ]
+                },
+                {
+                    "filename": "V3totempolesRevision1.mp4",
+                    "thumbnail": "V3T.jpg",
+                    "poster": "V3L.jpg",
+                    "caption": "Which Pole is Which?",
+                    "description": "Master artist Robert Davidson, who in 1969 led the renaissance of totem pole carving by raising the first modern pole on the Northwest Coast, explains three of the types of large carvings you see in this hall.",
+                    "type": "video",
+                    "id": "f3_004"
+                },
+                {
+                    "thumbnail": "I2album/I2.1.jpg",
+                    "caption": "Look Up!",
+                    "description": "The post to your left is the top third of a 48-foot (14.6-meter) high totem pole from Frog House in Cumshewa, Haida Gwaii. The Museum bought it from houseowner Abraham Moss in 1901 and then cut it in three pieces for transport. The base is behind you in the Tlingit area (look for the big thunderbird beak). The center section is in the middle of this Hall.",
+                    "type": "slideshow",
+                    "images": [
+                        {
+                            "src": "images/f3/I2album/I2.1.jpg",
+                            "caption": "Pole from Frog House, 1901",
+                            "description": "In the late 1800s, anthropologists eagerly sought prize poles for museums. They worried Northwest Coast cultures were vanishing, and \u201csalvaged\u201d objects for science\u2014and display. ",
+                            "credit": "PN00082 and PN 00956 courtesy of the Royal BC Museum, BC Archives",
+                            "id": "f3_005"
+                        },
+                        {
+                            "src": "images/f3/I2album/I2.2.jpg",
+                            "caption": "Felling This Pole, May 1901",
+                            "description": "These rare photos show the Frog House totem pole being collected for this Museum from Cumshewa, Haida Gwaii. The town’s chief weighs it down to help it fall.",
+                            "credit": "PN00082  and PN 00956 courtesy of the Royal BC Museum, BC Archives",
+                            "id": "f3_006",
+                            "map": {
+                                "caption": "Felling This Pole, May 1901",
+                                "filename": "images/f3/I2album/I2.2-Cumshewa.jpg",
+                                "description": "These rare photos show the Frog House totem pole being collected for this Museum from Cumshewa, Haida Gwaii. The town’s chief weighs it down to help it fall. <br><br>At the turn of the century, the village was being slowly abandoned and its monuments put up for sale. A series of epidemics had reduced Haida populations by a staggering 83 percent by the late 1800s, leaving small villages like Cumshewa struggling to function. The survivors eventually all moved to the two largest Haida towns, Masset and Skidegate, which remain so today."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "thumbnail": "i21album/I21.1.jpg",
+                    "caption": "Raising a Memorial Pole",
+                    "description": "The Haida frequently carve totem poles to extend, innovate and celebrate the traditions they are renowned for. In this image series, watch a 2003 totem pole raising in Old Massett, Haida Gwaii. The pole was erected as a memorial to artist and cultural leader Ernie Collison. Collison himself raised seven totem poles in his career.",
+                    "type": "slideshow",
+                    "images": [
+                        {
+                            "src": "images/f3/i21album/I21.1.jpg",
+                            "caption": "Transporting",
+                            "description": "The pole was carved by Jim Hart, an accomplished artist and a chief of the Haida Nation. Here, the community transports it from Hart\u2019s carving shed to its final home.",
+                            "credit": "Peter Whiteley",
+                            "map": {
+                                "caption": "Transporting",
+                                "filename": "images/f3/i21album/i21.1-Old-Masset.jpg",
+                                "description": "The pole was carved by Jim Hart, an accomplished artist and a chief of the Haida Nation. Here, the community transports the totem pole from Hart\u2019s carving shed to its final home."
+                            },
+                            "id": "f3_007"
+                        },
+                        {
+                            "src": "images/f3/i21album/I21.2.jpg",
+                            "caption": "Setting",
+                            "description": "This memorial pole\u2019s most noticeable crest is an eagle. Haida society is divided into two halves, or moeities: the Ravens and the Eagles. Collison was an Eagle.",
+                            "credit": "Peter Whiteley",
+                            "map": {
+                                "caption": "Setting",
+                                "filename": "images/f3/i21album/i21.2-Old-Masset.jpg",
+                                "description": "TThis memorial pole\u2019s most noticeable crest is an eagle. Haida society is divided into two halves, or moeities: the Ravens and the Eagles. Collison was an Eagle."
+                            },
+                            "id": "f3_008"
+                        },
+                        {
+                            "src": "images/f3/i21album/I21.3.jpg",
+                            "caption": "Raising",
+                            "description": "As dusk sets in, the pole rises to face Masset Inlet. It is now weathering nicely.",
+                            "credit": "Peter Whiteley",
+                            "map": {
+                                "caption": "Raising",
+                                "filename": "images/f3/i21album/i21.3-Old-Masset.jpg",
+                                "description": "As dusk sets in, the pole rises to face Masset Inlet. It is now weathering nicely. "
+                            },
+                            "id": "f3_009"
+                        }
+                    ]
+                }
+            ]
+        },
+        "likes": 0,
+        "relatedobjects": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "idkey": "3",
+        "id": "f4",
+        "path": "f4/",
+        "title": "(Super)Natural World",
+        "description": "title",
+        "url": "/feature/",
+        "mapid": 0,
+        "media": {
+            "coverimage": "2.jpg",
+            "coverimagethumb": "f4thumbnail.jpg",
+            "center": [
+                {
+                    "thumbnail": "album/I11.1.jpg",
+                    "caption": "Naturally Inspired",
+                    "description": "Haida Gwaii is home to an incredible array of plant and animal species, some of which are found nowhere else in the world. This rich environment, and the Haida people\u2019s close connection to the natural world, is reflected in their art. Many animals found on Haida Gwaii are represented in family crests\u2014symbols that represent the history and ancestry of an extended family or clan. ",
+                    "type": "slideshow",
+                    "images": [
+                        {
+                            "src": "images/f4/album/I11.1.jpg",
+                            "caption": "Puffins",
+                            "description": "Several hundred puffins nest on Haida Gwaii during breeding season. They can often be seen soaring above the water as they return to their nests with fish for their young. ",
+                            "credit": "Alaska Stock Images/ AGE Fotostock",
+                            "map": {
+                                "caption": "Puffin Breeding Sites",
+                                "filename": "images/f4/album/i11.1-Marlbe-Island.jpg",
+                                "description": "Several hundred puffins nest on Haida Gwaii during breeding season. They can often be seen soaring above the water as they return to their nests with fish for their young. Puffins are just one of the dozen species of sea birds that call Haida Gwaii home for at least part of the year. Altogether, more than 1.5 million seabirds are supported by the rich landscape and fertile seas surrounding Haida Gwaii."
+                            },
+                            "id": "f4_001"
+                        },
+                        {
+                            "src": "images/f4/album/i11.2.jpg",
+                            "caption": "Puffin Beak Leggings",
+                            "description": "Puffins shed the outer layer of their bills once a year. The discarded bills adorn many Haida objects, like these leggings. They are also frequently used in rattles. ",
+                            "credit": "AMNH",
+                            "id": "f4_002"
+                        },
+                        {
+                            "src": "images/f4/album/I11.3.jpg",
+                            "caption": "Beavers",
+                            "description": "Beavers are not native to Haida Gwaii but residents of the islands knew of the animals from their travels to the mainland.\u00a0",
+                            "credit": "Stephen J. Krasemann/ All Canada Photos/ AGE Fotostock",
+                            "id": "f4_003"
+                        },
+                        {
+                            "src": "images/f4/album/i11.4.jpg",
+                            "caption": "Upright Beaver Figure",
+                            "description": "Beaver is an important Haida crest animal and images of the animals often appear on totem poles, feast dishes and jewelry. In Haida mythology, beavers are wise, creative and hardworking. ",
+                            "credit": "Denis Finnin/AMNH",
+                            "id": "f4_004"
+                        },
+                        {
+                            "src": "images/f4/album/I11.5.JPG",
+                            "caption": "Killer Whales",
+                            "description": "Though killer whales are common all along the Northwest Coast, there are several large populations that live or migrate through the waters around Haida Gwaii. ",
+                            "credit": "Thomas Mangelsen/ Minden Pictures",
+                            "id": "f4_005"
+                        },
+                        {
+                            "src": "images/f4/album/I11-6.jpg",
+                            "caption": "Killer Whale Rattle",
+                            "description": "In Haida tradition, killer whales inhabit villages deep under the sea and are commonly associated with powerful chiefs and ancestors. They are also an important crest animal.",
+                            "credit": "Roderick Mickens/AMNH",
+                            "id": "f4_006"
+                        },
+                        {
+                            "src": "images/f4/album/I11.7.JPG",
+                            "caption": "Abalone",
+                            "description": "The Haida people eat marine snails, known as abalone, native to their islands and prize the iridescent shell of its southern relative, the California abalone. ",
+                            "credit": "Natural History Museum/ Mary Evans Picture Library/ AGE Fotostock",
+                            "id": "f4_007"
+                        },
+                        {
+                            "src": "images/f4/album/i11.8B.jpg",
+                            "caption": "Abalone Lip Ornament",
+                            "description": "The Haida people traded with neighboring groups to acquire the iridescent shells of California abalone, which is not native to Haida Gwaii, for use in headdresses, jewelry and more. ",
+                            "credit": "Denis Finnin/AMNH",
+                            "id": "f4_008"
+                        },
+                        {
+                            "src": "images/f4/album/I11.9.jpg",
+                            "caption": "Haida Gwaii Black Bear",
+                            "description": "The bears on Haida Gwaii enjoy a rich diet of shellfish and salmon. They can often be seen foraging in the tidal zone at low tide.",
+                            "credit": "Island Conservation",
+                            "id": "f4_009"
+                        },
+                        {
+                            "src": "images/f4/album/I11.10.jpg",
+                            "caption": "Bear Mother Statue",
+                            "description": "A popular Haida story tells of a woman who was transformed into a human-bear hybrid, as shown in this statue. Bears are thought of as close relatives of people and appear frequently in Haida myths.",
+                            "credit": "Harry Borrelli/AMNH",
+                            "id": "f4_010"
+                        }
+                    ]
+                },
+                {
+                    "filename": "I10.jpg",
+                    "thumbnail": "I10.jpg",
+                    "caption": "The Tree of Life",
+                    "description": "Cedar trees are an integral part of Haida life and culture. Cedar wood, bark and roots were used to make everything from hats, rope, baskets and blankets to houses and totem poles. Haida people still use their island\u2019s ancient, massive trees to create the dugout canoes that once allowed them to be masters of the sea. ",
+                    "type": "image",
+                    "credit": "John E. Marriott/ All Canada Photos/ AGE Fotostock",
+                    "id": "f4_011"
+                },
+                {
+                    "filename": "I9.jpg",
+                    "thumbnail": "I9.jpg",
+                    "caption": "The Sea Wolf ",
+                    "description": "In 1897, Haida artist Charles Edenshaw made this drawing for an American Museum of Natural History anthropologist. It is a sea wolf, known as Wasgo, with the body of a wolf and the fin of a killer whale. It holds a human in its mouth. Wasgo\u2019s skill in hunting killer whales, which also appear in the drawing, made it a favorite spirit guide for Haida fishermen.",
+                    "type": "image",
+                    "credit": "AMNH, Division of Anthropology, Z/25F",
+                    "id": "f4_012"
+                },
+                {
+                    "filename": "V5_species_supernatural.mp4",
+                    "thumbnail": "V5T.jpg",
+                    "poster": "V5L.jpg",
+                    "caption": "Skin of a Different Sort",
+                    "description": "The Haida think of animals as humans wearing animal skins. A killer whale might take off its skin, much like you take off a sweater, and then appear as a giant human. The reverse is also true: when humans wear masks they become the animal the mask portrays. Watch as a Haida dancer wearing an eagle mask swoops and soars around this hall during an event on October 22, 2014.",
+                    "type": "video",
+                    "id": "f4_013"
+                }
+            ]
+        },
+        "likes": 0,
+        "relatedobjects": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "idkey": "4",
+        "id": "f5",
+        "path": "f5/",
+        "title": "You Are Here",
+        "description": "title",
+        "url": "/feature/",
+        "mapid": 0,
+        "media": {
+            "coverimage": "2.jpg",
+            "coverimagethumb": "f5thumbnail.jpg",
+            "center": [
+                {
+                    "thumbnail": "album/I12.1.jpg",
+                    "caption": "You Are Here: Haida Gwaii",
+                    "description": "Haida Gwaii, or \u201cIslands of the People,\u201d is a remote archipelago off the coast of British Columbia, Canada that has been home to the Haida people for thousands of years. The terrain here varies from rocky beaches and quiet inlets to densely forested mountains. At an average distance of 53 miles (82km) to the mainland, it remains one of the most isolated places in North America.",
+                    "type": "slideshow",
+                    "images": [
+                        {
+                            "src": "images/f5/album/I12.1.jpg",
+                            "caption": "Islands of the People",
+                            "description": "Haida Gwaii is an archipelago, or group of islands. It is dominated by two main islands, Moresby and Graham, which are surrounded by hundreds of smaller, mostly uninhabited islands.",
+                            "credit": "Image Copyright of the Province of British Columbia",
+                            "map": {
+                                "caption": "Islands of the People",
+                                "filename": "images/f5/album/i12.1-Haida-Gwaii.jpg",
+                                "description": "Haida Gwaii is an archipelago, or group of islands. It is dominated by just two main islands, Moresby and Graham, which are surrounded by hundreds of smaller, mostly uninhabited islands. An average distance of 53 miles (82 km) separates the islands from mainland British Columbia.  <br<br>Formerly known as the Queen Charlotte Islands, the islands were 0fficially renamed Haida Gwaii in 2010. Haida Gwaii means \u201cIslands of the People,\u201d the name used by the Haida people who have called the islands home for thousands of years."
+                            },
+                            "id": "f5_001"
+                        },
+                        {
+                            "src": "images/f5/album/I12.2.jpg",
+                            "caption": "Water Ways",
+                            "description": "The Pacific Ocean extends to the west of Haida Gwaii for thousands of miles. The shallow Hecate Strait to the east is known for its ferocious winds and pounding waves. ",
+                            "credit": "Gowgaia Institute",
+                            "map": {
+                                "caption": "Water Ways",
+                                "filename": "images/f5/album/i12.2-Hecate-Strait.jpg",
+                                "description": "The Pacific Ocean extends to the west of Haida Gwaii for thousands of miles. The shallow Hecate Strait to the east is known for its ferocious winds and pounding waves. For centuries the Haida were said to be the only people capable of navigating this difficult waterway.  Haida Gwaii\u2019s west coast sits at the edge of the Pacific Shelf; not far from its shores, the ocean plunges to a depth of over a mile and a half (2.5km). "
+                            },
+                            "id": "f5_002"
+                        },
+                        {
+                            "src": "images/f5/album/I12.3.jpg",
+                            "caption": "Masset",
+                            "description": "A number of totem poles stand in front of the houses of prominent families in the village of Masset, shown here in 1881.",
+                            "credit": "American Museum of Natural History Library",
+                            "map": {
+                                "caption": "Masset",
+                                "filename": "images/f5/album/i12.3-Masset.jpg",
+                                "description": "A number of totem poles stand in front of the houses of prominent families in the village of Masset, shown here in 1881.<br><br>Masset\u2019s location on an inlet protected it from the winter storms that batter Haida Gwaii. As a result, many powerful chiefs lived in Masset and the village became an important center of trade with other Native groups and Europeans.<br><br>Masset\u2019s population rapidly expanded in the late 1800s. Many Haida people chose to resettle there after Old World diseases, like smallpox, ravaged the populations in their home villages. "
+                            },
+                            "id": "f5_003"
+                        },
+                        {
+                            "src": "images/f5/album/I12.4.jpg",
+                            "caption": "Masset Today",
+                            "description": "Today Masset is not only one of the oldest surviving villages on Haida Gwaii, it is also one of the largest, with a population around 900. ",
+                            "credit": "Heeb Christian/ Prisma/ AGE Fotostock",
+                            "map": {
+                                "caption": "Masset Today",
+                                "filename": "images/f5/album/i12.4-Masset.jpg",
+                                "description": "Today Masset is not only one of the oldest surviving villages on Haida Gwaii, it is also one of the largest, with a population around 900. <br><br>By the late 1800s, diseases had wiped out nearly 95% of the Haida population. Today, the group is small but growing. About 5,000 people now call Haida Gwaii home, half of whom claim Haida descent. There are another 2,000 Haida living around the world. That number includes Prince of Wales Island in the U.S. state of Alaska, another traditional home of the Haida people."
+                            },
+                            "id": "f5_004"
+                        },
+                        {
+                            "src": "images/f5/album/I12.5.JPG",
+                            "caption": "Gwaii Haanas",
+                            "description": "The southern portion of the largest island in Haida Gwaii is a designated National Park Reserve, known as Gwaii Haanas. The reserve includes both natural and human heritage sites. ",
+                            "credit": "Pete Ryan/ National Geographic Creative",
+                            "map": {
+                                "caption": "Gwaii Haanas",
+                                "filename": "images/f5/album/i12.5-Gwaii-Haanas-state-park.jpg",
+                                "description": "The southern portion of the largest island in Haida Gwaii is a designated National Park Reserve, known as Gwaii Hanaas. The reserve includes both natural and human heritage sites. <br><br>Created in 1993, after decades of contentious logging protests, Gwaii Haanas is jointly managed by an equal number of representatives from the Council of the Haida Nation and the Government of Canada. <br><br>In 2010, Gwaii Haanas National Park Reserve became the first area in the world to be protected from sea floor to mountaintop. "
+                            },
+                            "id": "f5_005"
+                        }
+                    ]
+                },
+                {
+                    "filename": "V6_Nicoll.mp4",
+                    "thumbnail": "V6T.jpg",
+                    "poster": "V6L.jpg",
+                    "caption": "This is Being the Mountain",
+                    "description": "Artist Michael Nicoll Yahgulanaas invites you to stand on his favorite stretch of beach on Haida Gwaii and, as he might say, embrace the boldness of your smallness. ",
+                    "type": "video",
+                    "map": {
+                        "caption": "This is Being the Mountain",
+                        "filename": "images/f5/v6-Naikoon.jpg",
+                        "description": "Artist Michael Nicoll Yahgulanaas invites you to stand on his favorite stretch of beach on Haida Gwaii and, as he might say, embrace the boldness of your smallness.  <br><br>Naikoon, also known as Rose Spit, holds special significance for the Haida who believe that the first humans and animals emerged from a clamshell there before spreading out to populate the islands."
+                    },
+                    "id": "f5_006"
+                },
+                {
+                    "filename": "i13.jpg",
+                    "thumbnail": "i13.jpg",
+                    "caption": "Unique Stone, Important Story",
+                    "description": "This carving represents the traditional story of a half-bear, half-human woman and child. It\u2019s made from black argillite\u2014a type of soft, oily shale rock found only on Haida Gwaii. Only the Haida have access to the island\u2019s argillite quarries  and certain ones can only be accessed by specific families. The location of these is a closely guarded secret.",
+                    "type": "image",
+                    "id": "f5_007"
+                },
+                {
+                    "filename": "V7_Roberta.mp4",
+                    "thumbnail": "V7T.jpg",
+                    "poster": "V7L.jpg",
+                    "caption": "Gathering Tradition",
+                    "description": "Hear how the richness of the land and sea surrounding Haida Gwaii has provided food for countless generations. Roberta Olson was born and raised on Haida Gwaii. Today, she owns and operates a restaurant there where she serves traditional Haida meals to locals and tourists alike. ",
+                    "type": "video",
+                    "id": "f5_008"
+                }
+            ]
+        },
+        "likes": 0,
+        "relatedobjects": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "idkey": "5",
+        "id": "f6",
+        "path": "f6/",
+        "title": "THIS SPECIAL HALL",
+        "description": "title",
+        "url": "/feature/",
+        "mapid": 0,
+        "media": {
+            "coverimage": "2.jpg",
+            "coverimagethumb": "I16.2.jpg",
+            "center": [
+                {
+                    "filename": "I14.jpg",
+                    "thumbnail": "I14.jpg",
+                    "caption": "Jesup North Pacific Expedition Map",
+                    "description": "In 1896, Franz Boas, a young anthropology curator, convinced the Museum to support an ambitious five-year study of cultures around the North Pacific Ocean. Boas assumed they were vanishing, and urgently wished to collect materials. The expedition obtained more than half of this hall\u2019s objects and launched a new standard for anthropology.",
+                    "type": "image",
+                    "credit": "AMNH Division of Anthropology",
+                    "id": "f6_001"
+                },
+                {
+                    "filename": "V8_HallSignificance.mp4",
+                    "thumbnail": "V8T.jpg",
+                    "poster": "V8L.jpg",
+                    "caption": "A Native Artist Reacts",
+                    "description": "Haida master artist Robert Davidson describes what it feels like to walk into this area of the hall, surrounded by significant artifacts from his culture.",
+                    "type": "video",
+                    "id": "f6_002"
+                },
+                {
+                    "thumbnail": "I15album/I15.2.jpg",
+                    "caption": "In the Field",
+                    "description": "The extraordinary 19th-century artifacts you see here came here from many makers and collectors. The driving force was anthropologist Franz Boas, devoted to countering racism by representing cultures with care and respect. He enlisted dedicated field researchers, some with Native ancestry, and local artists to make this hall the first of its kind. ",
+                    "type": "slideshow",
+                    "images": [
+                        {
+                            "src": "images/f6/I15album/I15.2.jpg",
+                            "caption": "George Hunt with Family, 1894",
+                            "description": "George Hunt (left), with Northwest Coast roots and bilingual skills, was the primary associate of Boas (right), collecting many Kwakwa\u0331ka\u0331\u2019wakw objects and photos.",
+                            "credit": "American Philosophical Society",
+                            "id": "f6_003"
+                        },
+                        {
+                            "src": "images/f6/I15album/I15.3.jpg",
+                            "caption": "Charles Edenshaw",
+                            "description": "Boas enlisted Edenshaw, a renowned Haida artist still influential today, to make totem poles, a model house, drawings, and other artwork for this hall and the collections.",
+                            "credit": "Canadian Museum of History",
+                            "id": "f6_004"
+                        },
+                        {
+                            "src": "images/f6/I15album/I15.4.jpg",
+                            "caption": "John Swanton",
+                            "description": "Anthropologist John Swanton did exhaustive work in Haida Gwaii, recording stories, family lineages and more\u2014a trove for Haida people today seeking ancestral information.",
+                            "credit": "American Anthropological Association",
+                            "id": "f6_005"
+                        }
+                    ]
+                },
+                {
+                    "thumbnail": "I16album/I16.2.jpg",
+                    "caption": "As Old As It Looks?",
+                    "description": "Opened in 1899, this hall is the Museum\u2019s oldest gallery. Franz Boas, the \u201cfather of American anthropology,\u201d conceived it as the first museum exhibit to organize artifacts by culture group, not object type, which gave visitors context. But this hall is not an untouched relic of the day. Click through time to see it evolve to its present look.",
+                    "type": "slideshow",
+                    "images": [
+                        {
+                            "src": "images/f6/I16album/I16.2.jpg",
+                            "caption": "1910",
+                            "description": "Boas left the Museum in 1905. Later curators rearranged the alcoves by Northwest Coast geography (Haida is at the northern end) and installed totem poles.",
+                            "credit": "AMNH Library 33003",
+                            "id": "f6_007"
+                        },
+                        {
+                            "src": "images/f6/I16album/I16.3.jpg",
+                            "caption": "1943",
+                            "description": "\u201cThere is in New York a magic place where all the dreams of childhood hold a rendezvous, where century-old trees sing or speak\u2026\u201d \u2014French anthropologist Claude L\u00e9vi Strauss, 1943.",
+                            "credit": "AMNH Library 318931",
+                            "id": "f6_008"
+                        },
+                        {
+                            "src": "images/f6/I16album/I16.4.jpg",
+                            "caption": "2014",
+                            "description": "Today, the hall is a dynamic place where First Nations people and other visitors from around the world connect with these cultures, past and present.",
+                            "credit": "Jeff Conklin/Scott Unger/AMNH",
+                            "id": "f6_009"
+                        }
+                    ]
+                }
+            ]
+        },
+        "likes": 0,
+        "relatedobjects": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "idkey": "6",
+        "id": "f7",
+        "path": "f7/",
+        "title": "Haida Art",
+        "description": "title",
+        "url": "/feature/",
+        "mapid": 0,
+        "media": {
+            "coverimage": "2.jpg",
+            "coverimagethumb": "i18.jpg",
+            "center": [
+                {
+                    "filename": "V13JimHart.mp4",
+                    "thumbnail": "V13T.jpg",
+                    "poster": "V13L.jpg",
+                    "caption": "A Visual Language",
+                    "description": "Hear Haida master artist Robert Davidson describe how two simple shapes come together in countless ways to produce the characteristic look of Northwest Coast art. Descended from a family of prominent artists, Davidson is renowned for his masks, totem poles, prints, paintings and jewelry.",
+                    "type": "video",
+                    "id": "f7_001"
+                },
+                {
+                    "thumbnail": "album/I17.1.jpg",
+                    "caption": "Finding Haida Animals",
+                    "description": "Once you train your eye, it\u2019s easy to recognize the different animals woven, carved and painted on Haida artifacts. Some may be difficult to spot, but many of them can be identified by just one or two characteristics. Look for the animals in this image gallery on art and artifacts throughout the hall. ",
+                    "type": "slideshow",
+                    "images": [
+                        {
+                            "src": "images/f7/album/I17.1.jpg",
+                            "caption": "Raven",
+                            "description": "Look for raven\u2019s straight, pointed beak and prominent talons.",
+                            "credit": "AMNH, Division of Anthropology ",
+                            "id": "f7_002"
+                        },
+                        {
+                            "src": "images/f7/album/I17.2.jpg",
+                            "caption": "Thunderbird",
+                            "description": "You can spot this supernatural creature said to cause lightning and thunder, by its sharply hooked beak that curves back towards its body. ",
+                            "credit": "AMNH",
+                            "id": "f7_003"
+                        },
+                        {
+                            "src": "images/f7/album/I17.3.jpg",
+                            "caption": "Beaver",
+                            "description": "Beavers have crosshatched tails and a distinctive pair of large front teeth. They are often holding or chewing on a stick.",
+                            "credit": "AMNH",
+                            "id": "f7_004"
+                        },
+                        {
+                            "src": "images/f7/album/I17.4.jpg",
+                            "caption": "Killer Whale",
+                            "description": "Look for killer whales\u2019 large, blunt heads, prominent teeth and blowholes. Their smooth, round bodies are topped with one or more dorsal fins.",
+                            "credit": "AMNH",
+                            "id": "f7_005"
+                        },
+                        {
+                            "src": "images/f7/album/I17.5.jpg",
+                            "caption": "Eagle",
+                            "description": "Though raven and eagle look similar, you can spot eagle by the downward curve of its beak. ",
+                            "credit": "Thomas Mangelsen/ Minden Pictures",
+                            "id": "f7_006"
+                        }
+                    ]
+                },
+                {
+                    "filename": "v10RobertDavidsononformline.mp4",
+                    "thumbnail": "V10T.jpg",
+                    "poster": "V10L.jpg",
+                    "caption": "The Shape of Nature ",
+                    "description": "Listen to Jim Hart, an accomplished artist and hereditary chief, describe his sudden awareness of the storied language of Haida art. ",
+                    "type": "video",
+                    "id": "f7_007"
+                },
+                {
+                    "filename": "i18.jpg",
+                    "thumbnail": "i18.jpg",
+                    "caption": "Woven Hat ",
+                    "description": "The abstract painting on this hat depicts a beaver. Can you find the large buck teeth under the eyes, and the webbed feet and claws on the brim? <br><br>The beaver\u2019s body covers all sides of the hat, as if a flat beaver pelt had been overlaid on the three-dimensional hat. The stretching of 2D images over 3D objects is a signature style of Northwest Coast art. ",
+                    "type": "image",
+                    "credit": "Harry Borrelli/AMNH",
+                    "id": "f7_008"
+                }
+            ]
+        },
+        "likes": 0,
+        "relatedobjects": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "idkey": "7",
+        "id": "f8",
+        "path": "f8/",
+        "title": "DRESS AND SYMBOL",
+        "description": "title",
+        "url": "/feature/",
+        "mapid": 0,
+        "media": {
+            "coverimage": "2.jpg",
+            "coverimagethumb": "f8thumbnail.jpg",
+            "center": [
+                {
+                    "filename": "V11adornment.mp4",
+                    "thumbnail": "V11T.jpg",
+                    "poster": "V11L.jpg",
+                    "caption": "On Haida Jewelry",
+                    "description": "Haida women often wear silver or gold bracelets engraved with family crest designs. The tradition began in the 1800s, when wearing crests as tattoos was falling out of favor and silver became widely available in coins. Designer Dorothy Grant and jewelry makers Christian White and Dan Wallace explain why Haida bangles are far more than accessories.",
+                    "type": "video",
+                    "id": "f8_001"
+                },
+                {
+                    "thumbnail": "I19album/I19.1.jpg",
+                    "caption": "Tattoo Traditions",
+                    "description": "Chroniclers of Haida culture in the 1800s often described tattoos, particularly on people from noble families. Men and women sported crest art on their chest, forearms, back, thighs and shins\u2014powerful signs of identity and lineage. Public tattooing rites occurred alongside potlatches, the famous ceremonial feasts of the Northwest Coast.",
+                    "type": "slideshow",
+                    "images": [
+                        {
+                            "src": "images/f8/I19album/I19.1.jpg",
+                            "caption": "Double Eagle",
+                            "description": "A Haida man with a double-eagle crest tattoo from the 1890s. ",
+                            "credit": "AMNH Library PPC B63 B4 F1 29A",
+                            "id": "f8_002"
+                        },
+                        {
+                            "src": "images/f8/I19album/I19.2.jpg",
+                            "caption": "Haida Tattoo Designs, 1873",
+                            "description": "In May 1873 James Swan, an American ethnologist and lawyer in Port Townsend, Washington, met a group of Haida people visiting to conduct trade. He sketched their tattoos.",
+                            "credit": "AMNH Division of Anthropology Z/3A",
+                            "id": "f8_003"
+                        },
+                        {
+                            "src": "images/f8/I19album/I19.3.jpg",
+                            "caption": "A Haida Tattoo Revival",
+                            "description": "Tattooing is resurging across Northwest Coast cultures. Here, Davina Cole of Juneau, Alaska shows the outline of a wolf crest inked on her leg by Tlingit artist Nahaan.",
+                            "credit": "Lars Krutak",
+                            "id": "f8_004"
+                        }
+                    ]
+                },
+                {
+                    "thumbnail": "i20album/I20.1.jpg",
+                    "caption": "Clothes, Remixed",
+                    "description": "For the Haida of the 1800s as well as of today, ceremonial dress is ornately embellished with traditional symbols. But Haida attire has a long tradition of blending cultural influences, mixing the everyday with the elaborate, and the ancestral with the adopted.",
+                    "type": "slideshow",
+                    "images": [
+                        {
+                            "src": "images/f8/i20album/I20.1.jpg",
+                            "caption": "Louisa of Massett, 1897",
+                            "description": "Blankets are customary Haida ceremonial and outerwear, first woven from mountain-goat wool. In the late 1800s, factory-made blankets were widely adopted and valued.",
+                            "credit": "AMNH Library 11737",
+                            "id": "f8_005"
+                        },
+                        {
+                            "src": "images/f8/i20album/I20.2.jpg",
+                            "caption": "Weaver, 1881",
+                            "description": "This woman wears a Hudson\u2019s Bay blanket, a Western-style calico shirt and a large lip ornament while weaving a conventional Haida spruce-root hat.",
+                            "credit": "AMNH Library 42290",
+                            "id": "f8_006"
+                        },
+                        {
+                            "src": "images/f8/i20album/I20.3.jpg",
+                            "caption": "Button Blankets, 1996",
+                            "description": "Historically, these robes sparkled with local dentalium shells, regionally traded abalone and Chinese-made mother-of-pearl buttons. Button blankets are still essential at potlatches.",
+                            "credit": "\u00a9www.setboun.com",
+                            "id": "f8_007"
+                        }
+                    ]
+                },
+                {
+                    "filename": "i21.jpg",
+                    "thumbnail": "i21.jpg",
+                    "caption": "Mask with Labret",
+                    "description": "Before European contact, Haida women, as well as those from the Tlingit and Tsimshian cultures, commonly wore labrets, or lip ornaments, first inserted when a girl reached puberty. Increasingly large labrets worn over her lifetime indicated a rise in status as a married woman of means. This mask shows a high-ranking woman.",
+                    "type": "image",
+                    "credit": "Roderick Mickens/AMNH",
+                    "id": "f8_008"
+                }
+            ]
+        },
+        "likes": 0,
+        "relatedobjects": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "idkey": "",
+        "title": "The Forest",
+        "description": "title",
+        "url": "/sort"
+    },
+    {
+        "idkey": "",
+        "title": "The Forest",
+        "description": "title",
+        "url": "/soundscape"
+    },
+    {
+        "idkey": "",
+        "title": "The Forest",
+        "description": "title",
+        "url": "/video-chat"
+    },
+    {
+        "idkey": "",
+        "title": "The Forest",
+        "description": "title",
+        "url": "/the-app"
+    }
+]
