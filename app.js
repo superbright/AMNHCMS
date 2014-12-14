@@ -83,6 +83,9 @@ app.put('/getLikes.json/:id', function (req, res){
     var likes = storage.getItem('likes');  
     likes[id]++;
 
+    var getParent = id.split('_');
+    likes[getParent[0]] += 1;
+
     storage.setItem('likes',likes);
   
     res.send(true);
