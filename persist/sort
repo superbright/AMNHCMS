@@ -1,0 +1,184 @@
+[
+    {
+        "filename": "V12_Nicoll.mp4",
+        "thumbnail": "images/f1/V12T.jpg",
+        "poster": "images/f1/V12L.jpg",
+        "caption": "What is it that you see?",
+        "description": "Haida artist Michael Nicoll Yahgulanaas is known for pushing boundaries. After decades of political activism\u2014during which he confronted the powerful logging industry as well as injustices in the Canadian government\u2014Yahgulanaas turned to making art full-time. His drawings, sculptures and other works of art incorporate traditional Haida designs in new ways while challenging viewers\u2019 perceptions and imagination. ",
+        "type": "video",
+        "path": "f1/",
+        "id": "f1_002"
+    },
+    {
+        "filename": "V14_Shoshana.mp4",
+        "thumbnail": "images/f1/V14T.jpg",
+        "poster": "images/f1/V14L.jpg",
+        "caption": "Living, Breathing Haida Art",
+        "description": "Shoshana Greene is a 22-year-old Haida artist who grew up watching The Lion King and dreaming of becoming a Disney animator. But as she started to develop her artistic style, Greene realized that her childhood on Haida Gwaii had given her something much richer than princes and castles\u2014time-honored stories and a style to remix and call her own. ",
+        "type": "video",
+        "path": "f1/",
+        "id": "f1_004"
+    },
+    {
+        "filename": "V2_White.mp4",
+        "thumbnail": "images/f2/V2T.jpg",
+        "poster": "images/f2/V2L.jpg",
+        "caption": "Song for a Potlatch",
+        "description": "Christian White, a Haida carver, descends from an influential family of chiefs and artists, the Edenshaws. Decades ago, his great-grandfather Henry commissioned a song for a potlatch he hosted. Hear White sing this legacy music\u2014and share its meaning.",
+        "type": "video",
+        "path": "f2/",
+        "id": "f2_004"
+    },
+    {
+        "filename": "V3totempolesRevision1.mp4",
+        "thumbnail": "images/f3/V3T.jpg",
+        "poster": "images/f3/V3L.jpg",
+        "caption": "Which Pole is Which?",
+        "description": "Master artist Robert Davidson, who in 1969 led the renaissance of totem pole carving by raising the first modern pole on the Northwest Coast, explains three of the types of large carvings you see in this hall.",
+        "type": "video",
+        "path": "f3/",
+        "id": "f3_004"
+    },
+    {
+        "filename": "V5_species_supernatural.mp4",
+        "thumbnail": "images/f4/V5T.jpg",
+        "poster": "images/f4/V5L.jpg",
+        "caption": "Skin of a Different Sort",
+        "description": "The Haida think of animals as humans wearing animal skins. A killer whale might take off its skin, much like you take off a sweater, and then appear as a giant human. The reverse is also true: when humans wear masks they become the animal the mask portrays. Watch as a Haida dancer wearing an eagle mask swoops and soars around this hall during an event on October 22, 2014.",
+        "type": "video",
+        "path": "f4/",
+        "id": "f4_013"
+    },
+    {
+        "filename": "V6_Nicoll.mp4",
+        "thumbnail": "images/f5/V6T.jpg",
+        "poster": "images/f5/V6L.jpg",
+        "caption": "This is Being the Mountain",
+        "description": "Artist Michael Nicoll Yahgulanaas invites you to stand on his favorite stretch of beach on Haida Gwaii and, as he might say, embrace the boldness of your smallness. ",
+        "type": "video",
+        "path": "f5/",
+        "id": "f5_006"
+    },
+    {
+        "filename": "V7_Roberta.mp4",
+        "thumbnail": "images/f5/V7T.jpg",
+        "poster": "images/f5/V7L.jpg",
+        "caption": "Gathering Tradition",
+        "description": "Hear how the richness of the land and sea surrounding Haida Gwaii has provided food for countless generations. Roberta Olson was born and raised on Haida Gwaii. Today, she owns and operates a restaurant there where she serves traditional Haida meals to locals and tourists alike. ",
+        "type": "video",
+        "path": "f5/",
+        "id": "f5_008"
+    },
+    {
+        "filename": "V8_HallSignificance.mp4",
+        "thumbnail": "images/f6/V8T.jpg",
+        "poster": "images/f6/V8L.jpg",
+        "caption": "A Native Artist Reacts",
+        "description": "Haida master artist Robert Davidson describes what it feels like to walk into this area of the hall, surrounded by significant artifacts from his culture.",
+        "type": "video",
+        "path": "f6/",
+        "id": "f6_002"
+    },
+    {
+        "filename": "V13JimHart.mp4",
+        "thumbnail": "images/f7/V13T.jpg",
+        "poster": "images/f7/V13L.jpg",
+        "caption": "A Visual Language",
+        "description": "Hear Haida master artist Robert Davidson describe how two simple shapes come together in countless ways to produce the characteristic look of Northwest Coast art. Descended from a family of prominent artists, Davidson is renowned for his masks, totem poles, prints, paintings and jewelry.",
+        "type": "video",
+        "path": "f7/",
+        "id": "f7_001"
+    },
+
+                {
+                    "filename": "images/f1/image.jpg",
+                    "thumbnail": "images/f1/imageT.jpg",
+                    "caption": "Lost Canoes Lead the Way",
+                    "description": "In 1984, Haida master artist Bill Reid set out to make the first traditional canoe in living memory. Most firsthand sources of information were long gone, so he turned to the abandoned canoes scattered around the island. The canoes, all in various stages of manufacture, provided key clues that allowed him and others to revive the practice of carving canoes.",
+                    "type": "image",
+                    "credit": "Pete Ryan/ National Geographic Creative",
+                     "path": "f1/",
+                    "id": "f1_003"
+                },
+                {
+                    "filename": "images/f4/I10.jpg",
+                    "thumbnail": "images/f4/I10.jpg",
+                    "caption": "The Tree of Life",
+                    "description": "Cedar trees are an integral part of Haida life and culture. Cedar wood, bark and roots were used to make everything from hats, rope, baskets and blankets to houses and totem poles. Haida people still use their island\u2019s ancient, massive trees to create the dugout canoes that once allowed them to be masters of the sea. ",
+                    "type": "image",
+                    "credit": "John E. Marriott/ All Canada Photos/ AGE Fotostock",
+                    "path": "f4/",
+                    "id": "f4_011"
+                }, {
+                    "filename": "images/f4/I9.jpg",
+                    "thumbnail": "images/f4/I9.jpg",
+                    "caption": "The Sea Wolf ",
+                    "description": "In 1897, Haida artist Charles Edenshaw made this drawing for an American Museum of Natural History anthropologist. It is a sea wolf, known as Wasgo, with the body of a wolf and the fin of a killer whale. It holds a human in its mouth. Wasgo\u2019s skill in hunting killer whales, which also appear in the drawing, made it a favorite spirit guide for Haida fishermen.",
+                    "type": "image",
+                    "credit": "AMNH, Division of Anthropology, Z/25F",
+                    "path": "f4/",
+                    "id": "f4_012"
+                },
+                {
+                    "filename": "images/f5/i13.jpg",
+                    "thumbnail": "images/f5/i13.jpg",
+                    "caption": "Unique Stone, Important Story",
+                    "description": "This carving represents the traditional story of a half-bear, half-human woman and child. It\u2019s made from black argillite\u2014a type of soft, oily shale rock found only on Haida Gwaii. Only the Haida have access to the island\u2019s argillite quarries  and certain ones can only be accessed by specific families. The location of these is a closely guarded secret.",
+                    "type": "image",
+                     "path": "f5/",
+                    "id": "f5_007"
+                },
+                {
+                    "filename": "images/f6/I14.jpg",
+                    "thumbnail": "images/f6/I14.jpg",
+                    "caption": "Jesup North Pacific Expedition Map",
+                    "description": "In 1896, Franz Boas, a young anthropology curator, convinced the Museum to support an ambitious five-year study of cultures around the North Pacific Ocean. Boas assumed they were vanishing, and urgently wished to collect materials. The expedition obtained more than half of this hall\u2019s objects and launched a new standard for anthropology.",
+                    "type": "image",
+                    "credit": "AMNH Division of Anthropology",
+                    "path": "f6/",
+                    "id": "f6_001"
+                },
+                 {
+                    "filename": "images/f7/i18.jpg",
+                    "thumbnail": "images/f7/i18.jpg",
+                    "caption": "Woven Hat ",
+                    "description": "The abstract painting on this hat depicts a beaver. Can you find the large buck teeth under the eyes, and the webbed feet and claws on the brim? <br><br>The beaver\u2019s body covers all sides of the hat, as if a flat beaver pelt had been overlaid on the three-dimensional hat. The stretching of 2D images over 3D objects is a signature style of Northwest Coast art. ",
+                    "type": "image",
+                    "credit": "Harry Borrelli/AMNH",
+                     "path": "f7/",
+                    "id": "f7_008"
+                },
+                {
+                    "filename": "images/f8/i21.jpg",
+                    "thumbnail": "images/f8/i21.jpg",
+                    "caption": "Mask with Labret",
+                    "description": "Before European contact, Haida women, as well as those from the Tlingit and Tsimshian cultures, commonly wore labrets, or lip ornaments, first inserted when a girl reached puberty. Increasingly large labrets worn over her lifetime indicated a rise in status as a married woman of means. This mask shows a high-ranking woman.",
+                    "type": "image",
+                    "credit": "Roderick Mickens/AMNH",
+                    "path": "f8/",
+                    "id": "f8_008"
+                },
+
+     {
+                    "filename": "A1_CulturalVacuum.mp3",
+                    "thumbnail": "images/f1/A1T.jpg",
+                    "poster": "A1L.jpg",
+                    "caption": "My First Mask",
+                    "description": "Increasing contact with Europeans in the early and mid-1800s wreaked havoc on Haida society. <br><br>Diseases devastated the population and laws suppressed and criminalized the practice of Haida culture. Then in the 1950s, the Haida began to reclaim their traditions. Hear artist Robert Davidson describe how it all started for him with a paper bag and a story from his grandmother. ",
+                    "type": "audio",
+                     "path": "f1/",
+                    "id": "f1_001"
+                },
+                
+                {
+                    "filename": "A2_Potlatch.mp3",
+                    "thumbnail": "images/f2/A2T.jpg",
+                    "poster": "A2L.jpg",
+                    "caption": "Sounds Like Supernatural",
+                    "description": "Music from whistles and other instruments sets a tone at potlatch ceremonies that can mount into a bone-chilling climax. Listen in with Haida musician and composer Vernon Williams, pictured performing in this hall in 2014.",
+                    "type": "audio",
+                    "credit": "Jeff Conklin/Scott Unger/AMNH",
+                     "path": "f2/",
+                    "id": "f2_005"
+                }
+]

@@ -69,6 +69,12 @@ app.get('/getStreams.json', function(req,res){
     res.send(streamsforsave);
 });
 
+app.get('/getSort.json', function(req,res){
+
+    var sortdata = storage.getItem('sort');  
+    res.send(sortdata);
+});
+
 app.get('/getLikes.json', function(req,res){
 
     var likesforsave = storage.getItem('likes');  
